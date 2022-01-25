@@ -8,7 +8,7 @@
 
 misturar os dois ingredientes numa bacia e sovar. abrir a massa e deixar bem fina, cortar em círculos para ser recheada.
 
-![pierogi massa](C:\Users\neon-\workspace\livro-receitas\receitas\assets\pierogi massa.jpeg)
+<img src="assets/pierogi massa.jpeg" width="400" height="400">
 
 ## recheio
 
@@ -28,10 +28,9 @@ cozinhar a batata até ficar macia mas não necessariamente um purê. dourar a c
 
 ## montagem
 
-![pierogi montado](C:\Users\neon-\workspace\livro-receitas\receitas\assets\pierogi montado.jpeg)
+<img src="assets/pierogi montado.jpeg" width="400" height="400">
 
 
 
 ## prato final
-
-![pierogi ao molho](C:\Users\neon-\workspace\livro-receitas\receitas\assets\pierogi ao molho.jpeg)
+<img src="assets/pierogi ao molho.jpeg" width="400" height="400">
