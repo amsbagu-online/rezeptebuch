@@ -1,4 +1,4 @@
-#massa de Panqueca ou Waffle :pancakes:
+# massa de Panqueca ou Waffle :pancakes:
 
 ## ingredientes
 
@@ -19,7 +19,7 @@ misturar os ingredientes secos em uma bacia e em outra misturar os líquidos. ju
 
 podem ser decorados da mais variada forma.
 
-![waffles](C:\Users\neon-\workspace\livro-receitas\receitas\assets\waffles.jpeg)
+![waffles](livro-receitas\receitas\assets\waffles.jpeg)
 
 
 
