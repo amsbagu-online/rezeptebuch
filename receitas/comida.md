@@ -1,4 +1,4 @@
-#Sopa simples sopa
+#Sopa simples sopa :stew:
 
 ###Ingredientes
 
@@ -11,7 +11,7 @@
 1 colher sopa de orégano (opcional)
 3 colheres sopa de óleo ou azeite
 1/2 cebola grande picadinha
-1 cubo de caldo de carne
+1 cubo de caldo de legumes
 
 ###Modo de preparo
 
