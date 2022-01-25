@@ -19,8 +19,6 @@ misturar os ingredientes secos em uma bacia e em outra misturar os líquidos. ju
 
 podem ser decorados da mais variada forma.
 
-![waffles](livro-receitas\receitas\assets\waffles.jpeg)
-
-
+<img src="assets/waffles.jpeg" width="400" height="400">
 
 https://tasty.co/recipe/the-fluffiest-vegan-pancakes
